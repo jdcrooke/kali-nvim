@@ -39,6 +39,6 @@ let g:startify_bookmarks = [
             \ { 'b': '~/.bash_aliases},
             \ '~/root-fc',
             \ '~/Code',
-            \ ]
+            \ ],
 
 let g:startify_enable_special = 0
