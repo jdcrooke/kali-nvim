@@ -38,7 +38,7 @@ let g:startify_bookmarks = [
             \ { 'z': '~/.zshrc' },
             \ { 'b': '~/.bash_aliases},
             \ '~/root-fc',
-            \ '~/Code'
+            \ '~/Code',
             \ ]
 
 let g:startify_enable_special = 0

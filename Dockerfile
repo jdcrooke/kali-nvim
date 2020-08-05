@@ -7,16 +7,12 @@ ENV TERM screen-256color
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt update && apt install -y \
-  git \
-  bash \
   fzf \
-  wget \
   python3-dev \
   python3-pip \
   libssl-dev \
   libffi-dev \
   locales \
-  curl \
   ripgrep \
   nodejs \
   npm \
