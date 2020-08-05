@@ -25,7 +25,7 @@ RUN apt update && apt install -y \
 SHELL ["/bin/zsh", "-c"]
 
 RUN npm i -g neovim
-RUN bash  <(curl -s https://raw.githubusercontent.com/jdcrooke/nvim/master/utils/install-docker.sh)
+RUN bash  <(curl -s https://raw.githubusercontent.com/jdcrooke/kali-nvim/master/utils/install-docker.sh)
 RUN git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 
 CMD ["nvim"]

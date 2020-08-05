@@ -1,6 +1,6 @@
-# Nvim Mach 2
+# Nvim kali-nvim
 
-![Nvim Mach 2 pic](./utils/images/nvim.png)
+![Nvim kali-nvim pic](./utils/images/nvim.png)
 
 ## Install in one command
 

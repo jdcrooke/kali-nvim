@@ -36,9 +36,9 @@ let g:startify_bookmarks = [
             \ { 'c': '~/.config' },
             \ { 'i': '~/.config/nvim/init.vim' },
             \ { 'z': '~/.zshrc' },
-            \ { 'b': '~/.bash_aliases}
-            \ '~/hack-scripts',
-            \ '~/Code',
+            \ { 'b': '~/.bash_aliases},
+            \ '~/root-fc',
+            \ '~/Code'
             \ ]
 
 let g:startify_enable_special = 0
